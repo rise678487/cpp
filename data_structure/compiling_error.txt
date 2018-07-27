@@ -1,0 +1,10 @@
+D:\cpp\data_structure\main.cpp: In function 'int main()':
+D:\cpp\data_structure\main.cpp:7:3: error: 'Score' was not declared in this scope
+   Score* newScore =new Score();
+   ^~~~~
+D:\cpp\data_structure\main.cpp:7:10: error: 'newScore' was not declared in this scope
+   Score* newScore =new Score();
+          ^~~~~~~~
+D:\cpp\data_structure\main.cpp:7:24: error: expected type-specifier before 'Score'
+   Score* newScore =new Score();
+                        ^~~~~
